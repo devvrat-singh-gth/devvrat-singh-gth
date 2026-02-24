@@ -1,8 +1,5 @@
-# 👋Hi, I'm Devvrat Singh  
-
-### Full Stack Developer | AI Integration Enthusiast | Problem Solver  
-
-Welcome to my GitHub profile.
+# 👋Welcome to my GitHub profile
+<b>Hi,</b> I'm <b>Devvrat Singh</b><br><b>Full Stack Developer | AI Integration Enthusiast | Problem Solver</b>
 
 I am a **Full Stack Web Developer** passionate about building scalable, high-performance web applications and exploring the intersection of modern web architecture and Artificial Intelligence.
 
