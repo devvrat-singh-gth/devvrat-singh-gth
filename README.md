@@ -89,21 +89,22 @@ Focused on clean architecture, performance optimization, and practical AI implem
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devvrat-singh-gth&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false" /> </p> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false&layout=compact&langs_count=8" /> </p>
+🔥 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=devvrat-singh-gth&theme=react-dark&hide_border=true&area=true" width="100%"/> </p>
+⚡ GitHub Overview
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devvrat-singh-gth&theme=chartreuse_dark" /> </p>
+🏆 GitHub Trophies (Bonus Boost)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=devvrat-singh-gth&theme=matrix&no-frame=true&margin-w=10&column=7" /> </p>
+👁️ Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devvrat-singh-gth&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=devvrat-singh-gth&theme=city_lights&no-frame=false&no-bg=false&margin-w=4)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devvrat-singh-gth&theme=onedark&no-frame=true&margin-w=10&column=7" />
+</p>
 ---
 
 ## 🤝 Open Source & Collaboration
