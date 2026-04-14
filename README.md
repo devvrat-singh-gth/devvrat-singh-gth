@@ -119,20 +119,28 @@ Focused on clean architecture, performance optimization, and practical AI implem
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false" 
+       style="width:100%; max-width:1200px;" />
+</p>
 
 ---
 
 ## ⚡ GitHub Overview
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devvrat-singh-gth&theme=chartreuse_dark)
+<p align="center">
+  <!-- Profile Overview -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devvrat-singh-gth&theme=chartreuse_dark" 
+       style="width:100%; max-width:1200px;"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+       style="width:100%; max-width:1200px;"/>
+</p>
 
 ---
 
