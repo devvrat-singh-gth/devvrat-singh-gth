@@ -154,6 +154,6 @@ Open to contributing to:
 
 ---
 
-<p align="center"><i>“AI enhances developers — it amplifies their impact.”</i></p>
+<p align="center"><i>“AI not just enhances developers — it amplifies their impact.”</i></p>
 
 ---
