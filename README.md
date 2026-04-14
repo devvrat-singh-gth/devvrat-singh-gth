@@ -1,4 +1,34 @@
-# 👋Welcome to my GitHub profile
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=900&size=40&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=900&lines=Hi,+I'm+Devvrat+Singh;Full+Stack+Developer;AI-Integration+Enthusiast;⚡+Building+AI-powered+Web+Apps" />
+</p>
+
+<br>
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://dummyimage.com/430x40/FF6700/FFFFFF&text=Connect+with+me&font=Share+Tech+Mono&size=40&weight=900" 
+       style="display:block; height:40px;" />
+    <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         style="height:40px;" />
+  </a>
+  <a href="mailto:devvratsinghbanga2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         style="height:40px;" />
+  </a>
+  <a href="https://devvratsingh.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white" 
+         style="height:40px;" />
+  </a>
+  <a href="https://github.com/devvrat-singh-gth" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
+         style="height:40px;" />
+  </a>
+</div>
+
+---
+
+## 👋 Welcome to my GitHub profile</span>
+
 <b>Hi,</b> I'm <b>Devvrat Singh</b><br><b>Full Stack Developer | AI Integration Enthusiast | Problem Solver</b>
 
 I am a **Full Stack Web Developer** passionate about building scalable, high-performance web applications and exploring the intersection of modern web architecture and Artificial Intelligence.
@@ -89,6 +119,7 @@ Focused on clean architecture, performance optimization, and practical AI implem
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
@@ -102,12 +133,6 @@ Focused on clean architecture, performance optimization, and practical AI implem
 ## ⚡ GitHub Overview
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devvrat-singh-gth&theme=chartreuse_dark)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=devvrat-singh-gth&theme=city_lights&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
