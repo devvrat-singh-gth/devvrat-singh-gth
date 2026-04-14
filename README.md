@@ -119,6 +119,7 @@ Focused on clean architecture, performance optimization, and practical AI implem
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
