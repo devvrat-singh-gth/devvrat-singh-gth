@@ -131,16 +131,10 @@ Focused on clean architecture, performance optimization, and practical AI implem
 ## ⚡ GitHub Overview
 
 <p align="center">
-  <!-- Profile Overview -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devvrat-singh-gth&theme=chartreuse_dark" 
        style="width:100%; max-width:1200px;"/>
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvrat-singh-gth&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-       style="width:100%; max-width:1200px;"/>
-</p>
 
 ---
 
