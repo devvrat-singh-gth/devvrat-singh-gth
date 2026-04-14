@@ -27,7 +27,7 @@
 
 ---
 
-## 👋 Welcome to my GitHub profile</span>
+## 👋 Welcome to my GitHub profile
 
 <b>Hi,</b> I'm <b>Devvrat Singh</b><br><b>Full Stack Developer | AI Integration Enthusiast | Problem Solver</b>
 
