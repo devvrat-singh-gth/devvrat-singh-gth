@@ -149,7 +149,6 @@ Open to contributing to:
 - Backend performance optimization projects  
 - Modern frontend architecture initiatives  
 
-
 [![](https://visitcount.itsvg.in/api?id=devvrat-singh-gth&icon=6&color=6)](https://visitcount.itsvg.in)
 
 ---
