@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
          style="height:40px;" />
   </a>
-  <a href="https://devvratsingh.vercel.app" target="_blank">
+  <a href="https://devvratsingh-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=appveyor&logoColor=white" 
          style="height:40px;" />
   </a>
