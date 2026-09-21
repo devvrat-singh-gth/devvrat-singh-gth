@@ -102,6 +102,9 @@ Focused on clean architecture, performance optimization, and practical AI implem
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Neon](https://shields.io)
+![Redis](https://shields.io)
+![Prisma](https://shields.io)
 
 ## 💻 Programming Foundations
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
