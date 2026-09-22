@@ -79,6 +79,11 @@ Focused on clean architecture, performance optimization, and practical AI implem
 - 🦆 **Fun Fact:**  
   Debugged a complex React state issue using the rubber duck method — and it worked.
 
+- 🤖 **AI/ML & NLP Focus:**  
+  - Gaining hands-on experience with **Hugging Face, LangChain, and LlamaIndex**  
+  - Implementing Vector Databases (**ChromaDB / Pinecone / pgvector**) for context retrieval  
+  - Exploring text preprocessing, word vectors, and semantic similarity  
+
 ---
 
 # 💻 Tech Stack
