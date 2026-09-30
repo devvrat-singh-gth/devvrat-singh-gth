@@ -3,6 +3,7 @@
 </p>
 
 <br>
+
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://dummyimage.com/430x40/FF6700/FFFFFF&text=Connect+with+me&font=Share+Tech+Mono&size=40&weight=900" 
        style="display:block; height:40px;" />
