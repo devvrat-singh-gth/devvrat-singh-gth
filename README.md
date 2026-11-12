@@ -10,7 +10,7 @@
     <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/devvrat-singh-5698a9320?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
          style="height:40px;" />
-  </a>
+  </a
   <a href="mailto:devvratsinghbanga2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
          style="height:40px;" />
